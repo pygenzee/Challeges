@@ -101,8 +101,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-* [![Python][Python.org]][https://www.python.org/]
-* [![PHP][php.com]][Laravel-url]
+* [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
