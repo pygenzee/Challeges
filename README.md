@@ -47,11 +47,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites--installation">Prerequisites & Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -118,7 +117,7 @@ Install Python interpreter and Git on your computer system. then follow these st
 
 
 <!-- USAGE -->
-## Usage
+### Usage
 
 After installation you can run all codes by:
 * Executing python file with interpreter
