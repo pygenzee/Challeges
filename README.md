@@ -52,11 +52,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -96,25 +93,40 @@ Python is an easy to learn, powerful programming language. It has efficient high
 
 ### Prerequisites & Installation
 
-Install Python interpreter on your computer system. then follow these steps:
+Install Python interpreter and Git on your computer system. then follow these steps:
 
 1. Create a virtual Environment
   ```sh
   python venv .venv
   ```
-
-
-2. Clone the repo
+1. Activate your virtual Environment
+  ```sh
+  source .venv/scripts/activate
+  ```
+3. Clone the repo
    ```sh
    git clone https://github.com/pygenzee/challenges.git
    ```
-3. Install PyPi packages
+4. Install PyPi packages
    ```sh
    pip install -r requirements.txt
    ```
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+<!-- USAGE -->
+## Usage
+
+After installation you can run all codes by:
+* Executing python file with interpreter
+  ```sh
+  python [file name].py
+  ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
