@@ -123,7 +123,7 @@ Install Python interpreter and Git on your computer system. then follow these st
 After installation you can run all codes by:
 * Executing python file with interpreter
   ```sh
-  python [file name].py
+  python src/[filename].py
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

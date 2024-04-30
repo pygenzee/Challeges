@@ -5,8 +5,8 @@
 .project/
 .venv/
 db.sqlite3
-.env
-.bak
+*.env
+*.bak
 docs/
 media/
 
@@ -16,5 +16,7 @@ media/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
+build/
+dist/
 __pycache__/
 *.py[cod]
