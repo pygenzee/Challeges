@@ -1,0 +1,19 @@
+### VS Code ###
+# Workspace data
+.idea/
+.vscode/
+.project/
+.venv/
+db.sqlite3
+.env
+docs/
+media/
+
+
+# Mac only
+.DS_Store
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
